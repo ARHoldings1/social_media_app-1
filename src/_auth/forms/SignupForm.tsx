@@ -81,7 +81,7 @@ const SignupForm = () => {
           Create a new account
         </h2>
         <p className="text-light-3 small-medium md:base-regular mt-2">
-          To use snapgram, Please enter your details
+          To use Snapgram, Please enter your details
         </p>
 
         <form
@@ -154,7 +154,7 @@ const SignupForm = () => {
           </Button>
 
           <p className="text-small-regular text-light-2 text-center mt-2">
-            Already have an account?
+            Hmm! Looks like you already have an account with us ?
             <Link
               to="/sign-in"
               className="text-primary-500 text-small-semibold ml-1">
